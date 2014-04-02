@@ -15,5 +15,5 @@ Writer.prototype.read = function (readTree) {
 }
 
 Writer.prototype.cleanup = function () {
-  quickTemp.remove(tree, 'tmpDestDir')
+  quickTemp.remove(this, 'tmpDestDir')
 }
