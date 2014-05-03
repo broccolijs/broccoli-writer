@@ -7,7 +7,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/joliss/broccoli-writer"
+    "url": "https://github.com/broccolijs/broccoli-writer"
   },
   "keywords": [
     "broccoli-helper"
