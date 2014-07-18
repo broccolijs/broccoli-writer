@@ -12,7 +12,7 @@ directory for you.
 ## Installation
 
 ```
-npm --save broccoli-writer
+npm install --save broccoli-writer
 ```
 
 ## Usage
