@@ -13,7 +13,7 @@
     "broccoli-helper"
   ],
   "dependencies": {
-    "quick-temp": "^0.1.0",
-    "rsvp": "^3.0.6"
+    "quick-temp": "^0.1.2",
+    "rsvp": "^3.0.14"
   }
 }
