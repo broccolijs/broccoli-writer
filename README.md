@@ -1,5 +1,7 @@
 # broccoli-writer
 
+**Deprecated in favor of [broccoli-plugin](https://github.com/broccolijs/broccoli-plugin).**
+
 Base class for Broccoli plugins that write an output tree. Most plugins fall
 into this category (the exception being plugins that just point at an existing
 directory on the file system, like broccoli-bower), so they will be
